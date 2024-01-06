@@ -2,3 +2,4 @@ bxjxdbics text
 bxjxdbic this text
 bxjxdbic this text
 Dalvik/2.1.0 (Linux; U; Android 13; Infinix 597 Ultra Build/TP1A.448939.030) [FBAN/FB4A;FBAV/367.0.0.56.42;FBBV/491210560;FBRV/0;FBPN/com.facebook.katana;FBLC/el_GR;FBMF/Infinix;FBBD/Infinix;FBDV/Infinix 597 Ultra;FBSV/13;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+[FBAN/FB4A;FBAV/420.0.0.19.58;FBBV/701449239;FBRV/0;FBPN/com.facebook.katana;FBLC/el_GR;FBMF/Realme;FBBD/Realme;FBDV/Realme N260 Max;FBSV/11;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
